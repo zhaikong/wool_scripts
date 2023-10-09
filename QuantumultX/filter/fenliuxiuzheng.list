@@ -90,7 +90,7 @@ host-keyword, api-adservices.apple.com, direct
 host-keyword, ls.apple.com, direct
 host-keyword, gsa.apple.com, direct
 host-keyword, ess.apple.com, direct
-
+# > 苹果app srore
 host, itunes.apple.com, direct
 
 # >>>>>>>>>>>>>>> ✅ Q ✅ <<<<<<<<<<<<<<
